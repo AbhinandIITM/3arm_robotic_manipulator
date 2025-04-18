@@ -1,3 +1,4 @@
 # robotic_arm
 
-file:///home/abhinand/robot_ws/src/robotic_arm/videos/gui_control.mp4
+
+https://github.com/AbhinandIITM/robotic_arm/blob/main/videos/gui_control.mp4
